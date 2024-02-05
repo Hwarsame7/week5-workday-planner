@@ -22,3 +22,6 @@ in order to run my series of questions run this command line
 
 * screenshot of local storage
 <img width="1440" alt="Screenshot 2024-02-05 at 16 25 04" src="https://github.com/Hwarsame7/week5-workday-planner/assets/146027409/70f2f1f0-4f09-4f56-a0be-f52d4c384ca4">
+
+* screenshot of code
+  <img width="1440" alt="Screenshot 2024-02-05 at 16 25 40" src="https://github.com/Hwarsame7/week5-workday-planner/assets/146027409/ca793560-ece3-4fd3-bb1e-d4abc99aa1a1">
