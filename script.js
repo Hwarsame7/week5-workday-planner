@@ -26,3 +26,14 @@ $(document).ready(function () {
       }
     });
   }
+currentTime();
+
+  const button = $(".saveBtn");
+
+  button.on("click", function () {
+    const time = $(this).siblings(".textbox").attr("id");
+    const textBox = $(this).siblings(".textbox").val();
+
+    localStorage.setItem(time, textBox);
+  });
+});
