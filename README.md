@@ -20,4 +20,5 @@ in order to run my series of questions run this command line
 * screenshot of application
 <img width="1440" alt="Screenshot 2024-02-05 at 16 25 17" src="https://github.com/Hwarsame7/week5-workday-planner/assets/146027409/945ccdeb-5fa7-492e-9a49-f7eb3c3d4d44">
 
-
+* screenshot of local storage
+<img width="1440" alt="Screenshot 2024-02-05 at 16 25 04" src="https://github.com/Hwarsame7/week5-workday-planner/assets/146027409/70f2f1f0-4f09-4f56-a0be-f52d4c384ca4">
