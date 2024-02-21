@@ -3,7 +3,7 @@
 This is a project containing a work day calendar between the hours of 9AM-5PM. Its an easy to use calendar where the user can add text at specific hours to plan their day and save it. It also showcases the current time and displays the timetable in colour codes of past present and future tasks. When the user adds a task by pressing the save button which will save this value to local storage and render it on the page after a hard refresh.
 
 ## Github URL
-https://github.com/Hwarsame7/week5-workday-planner
+https://hwarsame7.github.io/week5-workday-planner/
 
 ## Installation
 in order to run my series of questions run this command line
