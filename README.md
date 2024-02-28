@@ -5,11 +5,6 @@ This is a project containing a work day calendar between the hours of 9AM-5PM. I
 ## Github URL
 https://hwarsame7.github.io/week5-workday-planner/
 
-## Installation
-in order to run my series of questions run this command line
-
-- npm run start
-
 ## Technologies used
 
 - HTML
